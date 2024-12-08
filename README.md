@@ -60,4 +60,4 @@ The notebook requires the dataset `creditcard.csv` in the same directory.
 
 ### Outputs
 - Comparative analysis of models and balancing techniques.
-- Insights into the mitigation of bias in machine learning.# Deus Ex Machina - Project CS4: (De)Generative AI
+- Insights into the mitigation of bias in machine learning.
