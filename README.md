@@ -7,7 +7,7 @@ The notebook systematically guides the reader through:
 1. A detailed introduction to the problem.
 2. Dataset exploration and feature analysis.
 3. Implementation of different machine learning models (Random Forest and XGBoost).
-4. Evaluation of balancing techniques like SMOTE, ADASYN, and SMOTE-Tomek.
+4. Evaluation of balancing techniques including SMOTE, ADASYN, and SMOTE-Tomek, among others.
 5. Comparison of models and insights into handling biases and imbalances.
 
 ---
