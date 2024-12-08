@@ -38,7 +38,7 @@ The following libraries are used:
 
 2. **Model Training**:
    - Baseline models: Random Forest and XGBoost without balancing techniques.
-   - Incorporation of balancing methods like SMOTE, B-SMOTE, and ADASYN to handle class imbalance.
+   - Incorporation of balancing methods including SMOTE, B-SMOTE, and ADASYN to handle class imbalance.
 
 3. **Evaluation**:
    - Metrics used include **Precision**, **Recall**, **F1 Score**, **Accuracy**, and **AUPRC**.
