@@ -23,7 +23,7 @@ The dataset used is the [Credit Card Fraud Detection Dataset](https://www.kaggle
 The following libraries are used:
 - **pandas** (v2.2.3) - Data manipulation
 - **seaborn** & **matplotlib** - Visualization
-- **sklearn** (v1.5.2) - Preprocessing, modeling, and metrics
+- **sklearn** (v1.5.2) - Preprocessing, modeling and metrics
 - **xgboost** (v2.1.2) - XGBoost implementation
 - **imblearn** (v0.12.4) - Balancing techniques
 - **ydata-profiling** (v4.12.0) - Profiling
